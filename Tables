@@ -1,0 +1,99 @@
+# Work
+<style type="text/css">
+
+#reports {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    empty-cells: hide;
+    width: 100%;
+
+}
+
+#reports td, #reports th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#reports tr:nth-child(even){background-color: #f2f2f2;}
+
+
+#reports tr:hover {background-color: #ddd;}
+
+#reports th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+</style>
+
+<table align=center" width: 100%;>
+<tr>
+<td><table id="reports" align=center">
+	
+<tbody>
+		<tr>
+			<th>Investment Reports</th>
+			
+		</tr>
+		<tr>
+			<td>Nov 2016</td>
+			
+		</tr>
+		<tr>
+			<td>Oct 2016</td>
+			
+		</tr>
+		<tr>
+			<td><a href="https://louisvilleky.gov/file/lmginvestmentreport20160930pdf">Sept 2016</a></td>
+			
+		</tr>
+		<tr>
+			<td><a href="https://louisvilleky.gov/file/lmginvestmentreport20160831pdf">August 2016</a></td>
+			
+		</tr>
+		<tr>
+			<td><a href="https://louisvilleky.gov/file/lmginvestmentreport20160731pdf">July 2016</a></td>
+			
+		</tr>
+		<tr>
+			<td><a href="https://louisvilleky.gov/file/lmginvestmentreport20160630pdf">June 2016</a></td>
+			
+		</tr>
+</tbody></table></td>
+
+
+<td><table id="reports" align=center">
+	<tbody>
+		<tr>
+			
+			<th>Quaterly Minutes</th>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			
+			<td>&nbsp;</td>
+		</tr>
+</tbody></table></td></tr>
+
